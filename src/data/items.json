@@ -22,5 +22,11 @@
     "name": "Car",
     "price": 14000,
     "imgUrl": "/images/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Computer",
+    "price": 1499,
+    "imgUrl": "/images/computer.jpg"
   }
 ]
