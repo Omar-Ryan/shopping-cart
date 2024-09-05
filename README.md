@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Bootstrap
+
+This project will benefit you mainly in using React and Typescript and how to deal with the tool in the Card within the E-Commerce project. The project can be developed and more can be added.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
