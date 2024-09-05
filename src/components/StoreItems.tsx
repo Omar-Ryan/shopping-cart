@@ -16,7 +16,8 @@ function StoreItems({ id, name, price, imgUrl }: StoreItemsProps) {
     decreaseCartQuantity,
     removeFromCart,
   } = useShoppingCart();
-  const quantity = getItemQuantity(id);
+  const quantity: number = getItemQuantity(id);
+  console.log("the quantity ==> ", quantity);
   return (
     <Card className="h-100">
       <Card.Img
